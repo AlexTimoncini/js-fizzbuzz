@@ -5,3 +5,16 @@ margin: 0;
 padding: 0;
 box-sizing: border-box;
 }
+
+.fizz_number{
+    color: blueviolet;
+    background-color: rgb(173, 255, 228);
+}
+.buzz_number{
+    color: red;
+    background-color: rgb(135, 255, 135);
+}
+.fizz_buzz_number{
+    color: orange;
+    background-color: rgb(134, 134, 252);
+}
